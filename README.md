@@ -55,7 +55,7 @@ Example raw data is provided in the `example_data\` directory. Use this data to 
 
 ## Citing `HeadGait`
 
-If you are using mobgap in your research or work, we would like to ask you to mention the library in your publications.
+If you are using headgait in your research or work, we would like to ask you to mention the library in your publications.
 For papers, we recommend citing the library using the following reference:
 
 ```
